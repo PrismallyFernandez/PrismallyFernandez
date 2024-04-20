@@ -1,6 +1,6 @@
 👋 Hi everyone!!! I'm Prismally Fernández Hernández.
 
-🔭 I have knowledge in POO with JAVA and C# Windows Forms. I have experience in SQL Language (ORACLE, SQL SERVER, XAMPP MYSQL).
+🔭 I have knowledge in POO with JAVA and C# Windows Forms. I have experience in SQL Language (ORACLE, SQL SERVER, XAMPP MYSQL). I know to work with MongoDB. I also work web programming with JavaScript.
 
 - 🔭 I would like to be a great DBA.
 - 🌱 I’m currently learning Oracle DBA.
